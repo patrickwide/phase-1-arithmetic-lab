@@ -18,5 +18,5 @@ const max = Math.max(5, 10, 15, 20);
 
 console.log(multiply); // Output: 62
 console.log(random); // Output: Random number greater than 0
-console.log(mod); // Output: 1
+console.log(mod); // Output: 4
 console.log(max); // Output: 20
